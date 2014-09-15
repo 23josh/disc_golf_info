@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+<Configuration>
+<widget>
+<icon src="icons/android/drawable-ldpi/ic_launcher.png" gap:platform="android" gap:qualifier="ldpi" />
+<icon src="icons/android/drawable-mdpi/ic_launcher.png" gap:platform="android" gap:qualifier="mdpi" />
+<icon src="icons/android/drawable-hdpi/ic_launcher.png" gap:platform="android" gap:qualifier="hdpi" />
+<icon src="icons/android/drawable-xhdpi/ic_launcher.png" gap:platform="android" gap:qualifier="xhdpi" />
+<icon src="icons/android/drawable-xxhdpi/ic_launcher.png" gap:platform="android" gap:qualifier="xxhdpi" />
+
+</widget>
+
+
+</Configuration
