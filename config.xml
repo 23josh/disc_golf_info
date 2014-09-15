@@ -1,6 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
-<Configuration>
+
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+        xmlns:gap   = "http://phonegap.com/ns/1.0"
+        id          = "com.phonegap.example"
+        versionCode = "10" 
+        version     = "1.0.0" >
+
+    <!-- versionCode is optional and Android only -->
+
+    <name>How to disc golf</name>
+
+    <description>
+       The ins and outs of disc golf 
+    </description>
+
+    
+
+</widget>
+
 <widget>
+
+<icon src="icon.png"/>
+
 <icon src="icons/android/drawable-ldpi/ic_launcher.png" gap:platform="android" gap:qualifier="ldpi" />
 <icon src="icons/android/drawable-mdpi/ic_launcher.png" gap:platform="android" gap:qualifier="mdpi" />
 <icon src="icons/android/drawable-hdpi/ic_launcher.png" gap:platform="android" gap:qualifier="hdpi" />
@@ -10,4 +31,3 @@
 </widget>
 
 
-</Configuration
